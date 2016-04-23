@@ -5,4 +5,4 @@ Website: dev.bloodsource.hu/database/API
 
 How to use:
 
-Download our toolkit for developmen!
+Download our toolkit for development!
