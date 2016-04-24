@@ -1,0 +1,1 @@
+DELETE FROM gameobject WHERE id IN (211674, 239409);
