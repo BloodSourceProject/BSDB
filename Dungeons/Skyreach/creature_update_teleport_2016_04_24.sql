@@ -2,10 +2,10 @@ SET @ENTRY_NPC := 9999901;
 SET @MAPID := 1116;
 SET @GOSSIP_MENU := 45435;
 SET @GOSSIP_MENU_TEXT := 'Teleport out of Skyreach.';
-SET @posX = 52.525164;
-SET @posY = 2526.521973;
-SET @posZ = 79.731476;
-SET @posO = 3.783033;
+SET @posX = 33.304474;
+SET @posY = 2528.443359;
+SET @posZ = 103.606407;
+SET @posO = 3.649513;
 
 DELETE FROM `gossip_menu` WHERE `entry`=@GOSSIP_MENU ;
 INSERT INTO `gossip_menu` (`entry`, `text_id`) VALUES (@GOSSIP_MENU, 12370);
