@@ -1,1 +1,0 @@
-UPDATE creature_template SET DamageModifier = 12 WHERE entry in (86239, 86241, 86238, 86240);
