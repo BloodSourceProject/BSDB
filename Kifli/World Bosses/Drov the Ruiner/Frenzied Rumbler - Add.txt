@@ -8,6 +8,7 @@ INSERT INTO `smart_scripts` (`entryorguid`,`source_type`,`id`,`link`,`event_type
 (@ENTRY,@SOURCETYPE,0,0,0,0,100,0,5000,5000,12500,12500,11,175915,1,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0.0,"Acid Breath - Spell"),
 (@ENTRY,@SOURCETYPE,1,0,0,0,100,1,1,2,1000000000,1000000000,11,160244,1,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0.0,"Crushing Charge - Spell"),
 (@ENTRY,@SOURCETYPE,2,0,21,0,100,0,0,0,0,0,41,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,"DESPAWN");
+
 --
 -- A tábla adatainak kijavítása `creature_template`
 --
